@@ -1,0 +1,84 @@
+[
+  {
+    "questionNo": 1,
+    "question": "Fill in the blank box to help Kiki and her friends find the trail of apples hanging from the trees.",
+    "fixed": ["2","×","2","=","4"],
+    "options":["4","÷","2","=",""],
+    "answers": ["4","÷","2","=","2"],
+    "secondImg":"./images/1.jpg"
+
+  },
+  {
+    "questionNo": 2,
+    "question": "Fill in the blank box to help the kangaroos discover the glowing caves lined with lanterns.",
+    "fixed": ["4","×","2","=","8"],
+    "options":["8","÷","4","=",""],
+    "answers": ["8","÷","4","=","2"],
+    "secondImg":"./images/2.jpg"
+    
+  },
+  {
+    "questionNo": 3,
+    "question": "Fill in the blank box to guide Kiki and her friends to a field of blooming wildflowers.",
+    "fixed": ["3","×","2","=","6"],
+    "options":["6","÷","3","=","2"],
+    "answers": ["6","÷","3","=","2"],
+    "secondImg":"./images/3.jpg"
+  },
+  {
+    "questionNo": 4,
+    "question": "Fill in the blank box to help the kangaroos cross the sparkling streams with stepping stones.",
+    "fixed": ["4","×","3","=","12"],
+    "options":["12","÷","4","=",""],
+    "answers": ["12","÷","4","=","3"],
+    "secondImg":"./images/4.jpg"
+  },
+  {
+    "questionNo": 5,
+    "question": "Fill in the blank box to lead them to a shaded grove with clusters of mushrooms.",
+    "fixed": ["4","×","4","=","16"],
+    "options":["16","÷","4","=",""],
+    "answers": ["16","÷","4","=","4"],
+    "secondImg":"./images/5.jpg"
+  },
+  {
+    "questionNo": 6,
+    "question": "Help kangaroos find a meadow with colourful butterflies by filling the empty box.",
+    "fixed": ["2","×","5","=","10"],
+    "options":["10","÷","2","=",""],
+    "answers": ["10","÷","2","=","5"],
+    "secondImg":"./images/6.jpg"
+  },
+  {
+    "questionNo": 7,
+    "question": "Fill in the blank box to help them  hop to a clearing with sparkling seashells.",
+    "fixed": ["3","×","4","=","12"],
+    "options":["12","÷","3","=",""],
+    "answers": ["12","÷","3","=","4"],
+    "secondImg":"./images/7.jpg"
+  },
+  {
+    "questionNo": 8,
+    "question": "Fill in the blank box to guide the kangaroos to reach a garden with lilies near the pond.",
+    "fixed": ["4","×","5","=","20"],
+    "options":["20","÷","4","=",""],
+    "answers": ["20","÷","4","=","5"],
+    "secondImg":"./images/8.jpg"
+  },
+  {
+    "questionNo": 9,
+    "question": "Fill in the blank box to help Kiki and her friends count the snacks they shared during their break.",
+    "fixed": ["5","×","5","=","25"],
+    "options":["25","÷","5","=",""],
+    "answers": ["25","÷","5","=","5"],
+    "secondImg":"./images/9.jpg"
+  },
+  {
+    "questionNo": 10,
+    "question": "Fill in the blank box to help Kiki and her friends find a cave filled with shimmering gemstones.",
+    "fixed": ["6","×","2","=","12"],
+    "options":["12","÷","6","=",""],
+    "answers": ["12","÷","6","=","2"],
+    "secondImg":"./images/10.jpg"
+  }
+]
